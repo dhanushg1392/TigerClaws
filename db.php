@@ -1,7 +1,7 @@
 // db.php
 <?php
 $host = 'localhost';
-$dbname = 'tigerclaws data';  
+$dbname = 'tigerclaws';  
 $username = 'root';  
 $password = '';  
 
